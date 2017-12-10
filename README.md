@@ -1,6 +1,6 @@
 # Jest XLSX Loader
 
-![Build Status](https://circleci.com/gh/seveibar/jest-xlsx-loader.png?circle-token=b5b39e67e7230df2796a21b96184f53989e60d5d)]
+![Build Status](https://circleci.com/gh/seveibar/jest-xlsx-loader.png?circle-token=b5b39e67e7230df2796a21b96184f53989e60d5d)
 
 Imports and parses xlsx files for usage with the [xlsx npm module](https://www.npmjs.com/package/xlsx).
 
